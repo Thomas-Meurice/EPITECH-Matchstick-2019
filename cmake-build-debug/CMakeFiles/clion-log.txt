@@ -1,0 +1,4 @@
+/home/jupi/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.7142.39/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/jupi/Project/CPE/CPE_matchstick_2019
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jupi/Project/CPE/CPE_matchstick_2019/cmake-build-debug
